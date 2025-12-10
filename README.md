@@ -23,11 +23,3 @@ modules/gateways/pesepay.php
 ```
 
 Once the files are in their respective locations, you can proceed with the configuration of the Pesepay payment gateway within the WHMCS admin panel.
-
-
-### Contribution
-Contributions to the Pesepay payment gateway module for WHMCS are welcome! If you encounter any issues, have feature requests, or want to improve the module, feel free to create a pull request or raise an issue in the GitHub repository.
-
-GitHub Repository: [gitnyasha](https://github.com/gitnyasha/pesepay-whmcs-module)
-
-Let's work together to make Pesepay even better!
